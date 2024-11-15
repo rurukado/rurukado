@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm caljhs
+About me:
+- 🔭 I’m currently working as a freelance artist
+- 🌱 I’m currently learning HTML
+- 👯 I’m looking to collaborate as a graphic designer
+- 💬 Ask me about anything
+- 📫 How to reach me callystajunghans@gmail.com
 
-<!--
-**rurukado/rurukado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education:
 
-Here are some ideas to get you started:
+1. [Universitas Prima Indonesia] | Desain Komunikasi Visual | Medan '2023-now'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. [SMA Sutomo I] | MIA  | Medan '2020-2023'
+
+
+
